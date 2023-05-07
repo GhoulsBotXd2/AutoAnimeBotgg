@@ -24,3 +24,5 @@
 ## Credits
 
 - [Danish Bhaiya For Ffmpeg Stuff.](https://github.com/1danish-00/)
+
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/GhoulsBotXd2/AutoAnimeBotgg><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
